@@ -2,7 +2,6 @@ package tw.core;
 
 import org.junit.Test;
 import tw.core.generator.AnswerGenerator;
-import tw.core.generator.RandomIntGenerator;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.mock;
